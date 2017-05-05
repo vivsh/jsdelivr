@@ -1,0 +1,10 @@
+{
+  "packageManager": "npm",
+  "name": "uru",
+  "repo": "vivsh/uru",
+  "files": {
+    "basePath": "dist/",
+    "include": ["uru.js", "uru.min.js"],
+    "exclude": []
+  }
+}
